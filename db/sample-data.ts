@@ -7,11 +7,11 @@ const sampleData = {
       description:
         'Kakartu Se-kata is a card game about syllables. To play it, all you need to do is come up with a word as fast as you can with the syllables provided before the other players can do the same. This game is great for children who are learning to read, but is also a lot of fun for adults! Have fun and test your knowledge of the Indonesian language.',
       images: [
-        '/images/sample-products/sekata-1.jpeg',
-        '/images/sample-products/sekata-2.webp',
+        '/images/sample-products/sekata-1.jpg',
+        '/images/sample-products/sekata-2.jpg',
       ],
       price: 20000,
-      brand: 'Eunoia Games',
+      brand: 'Ennoia Games',
       rating: 4.5,
       numReviews: 10,
       stock: 1,
@@ -52,7 +52,7 @@ After 10 rounds or as soon as a player reaches the maximum population limit, the
       description:
         'In Harmonies, build landscapes by placing colored tokens and create habitats for your animals. To earn the most points and win the game, incorporate the habitats in your landscapes wisely and have as many animals as you can settle there.',
       images: [
-        '/images/sample-products/harmonies-1.png',
+        '/images/sample-products/harmonies-1.jpg',
         '/images/sample-products/harmonies-2.jpg',
       ],
       price: 40000,

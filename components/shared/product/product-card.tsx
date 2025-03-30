@@ -16,7 +16,7 @@ const ProductCard = ({ product }: { product: Product }) => {
             alt={product.name}
             height={300}
             width={300}
-            priority
+            className='max-h-[286px]'
           />
         </Link>
       </CardHeader>
