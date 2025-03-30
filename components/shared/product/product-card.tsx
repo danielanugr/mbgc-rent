@@ -9,7 +9,7 @@ const ProductCard = ({ product }: { product: Product }) => {
 
   return (
     <Card className='w-full max-w-sm'>
-      <CardHeader className='p-0 items-center'>
+      <CardHeader className='p-0 items-center justify-center'>
         <Link href={`/product/${product.slug}`}>
           <Image
             src={product.images[0]}
@@ -17,6 +17,7 @@ const ProductCard = ({ product }: { product: Product }) => {
             height={300}
             width={300}
             priority
+            className='max-h-[286px]'
           />
         </Link>
       </CardHeader>
